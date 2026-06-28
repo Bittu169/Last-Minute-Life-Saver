@@ -6,7 +6,9 @@
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4.0-38bdf8.svg)](https://tailwindcss.com/)
 [![Gemini API](https://img.shields.io/badge/AI-Gemini%203.5%20Flash-orange.svg)](https://ai.google.dev/)
 
-**Last Minute Life Saver (LMLS)** is an intelligent, full-stack productivity ecosystem designed specifically for high-stress environments. Whether you're a student facing finals, a developer in a high-stakes hackathon, or a project manager dealing with scope creep, LMLS acts as an automated triage center. It helps you prioritize complex projects, schedule tasks automatically, generate hyper-personalized actionable productivity insights, and interact using seamless conversational voice controls.
+**Last Minute Life Saver (LMLS)** is an intelligent, full-stack productivity ecosystem designed specifically for high-stress environments. Built via **vibe coding** as an entry for the **Google Vibe2Ship Hackathon**, this project is fully deployed on **Google Cloud Platform (GCP)**. 
+
+Whether you're a student facing finals, a developer in a high-stakes hackathon, or a project manager dealing with scope creep, LMLS acts as an automated triage center. It helps you prioritize complex projects, schedule tasks automatically, generate hyper-personalized actionable productivity insights, and interact using seamless conversational voice controls.
 
 ---
 
